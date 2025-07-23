@@ -1,0 +1,10 @@
+To run the project install the necessary libraries from requirement.txt file using 
+pip install -r requirements.txt
+
+After installing all the necessary libraries open the terminal locate where the project is present and run 
+python -m streamlit run app.py
+
+Note the dataset can be downloaded from kaggle here is the link
+https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
+
+The models are pretrained and saved using joblib.
